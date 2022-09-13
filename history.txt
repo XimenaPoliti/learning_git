@@ -1,2 +1,3 @@
 Primer paso en el curso de git
 Aprendiendo git init y más comandos.
+Git tiene 3 estados: Staged, Modified y Committed
