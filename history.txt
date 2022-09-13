@@ -1,0 +1,2 @@
+Primer paso en el curso de git
+Aprendiendo git init
