@@ -1,9 +1,10 @@
 body
 {
+	background-attachment: #1e1f24;
 	color: #333;
 	text-align:center;
 	font-size: 18px;
-	font-family: Courier;
+	font-family: Arial;
 	margin: 0;
 	padding: 0;
 }
